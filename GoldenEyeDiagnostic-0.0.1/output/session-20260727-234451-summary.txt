@@ -1,0 +1,9 @@
+GoldenEyeDiagnostic 0.0.1
+Motivo do encerramento: STOP_BUTTON
+ROM: 007 - GoldenEye (USA)
+SHA-1/Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Sistema: N64
+Frame inicial: 2522
+Frame final: 3870
+Quadros gravados: 1349
+CSV: .\output\session-20260727-234451-frames.csv
