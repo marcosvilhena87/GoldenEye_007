@@ -1,0 +1,23 @@
+GoldenEyeDiagnostic 0.0.5.1
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Mode: CAPTURE_REFERENCE
+CSV: .\demonstrations\session-20260727-234451-frames.csv
+Route limit: 1003
+Timeout frames: 1300
+Outcome: MISS
+First desync checkpoint: NONE
+
+Final memory:
+state=0 | death=0 | hitSignal=1 | ptr=0x801FABDC | aux=0
+
+Checkpoint results:
+START | index=1 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=0 | ptr=0x801FABDC | aux=0 | differences=
+SOLDIER_VISIBLE | index=339 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=0 | ptr=0x801FABDC | aux=0 | differences=
+BEFORE_SHOT_1 | index=714 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=0 | ptr=0x801FABDC | aux=0 | differences=
+AFTER_SHOT_1 | index=726 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=1 | ptr=0x801FABDC | aux=0 | differences=
+BEFORE_SHOT_2 | index=793 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=1 | ptr=0x801FABDC | aux=0 | differences=
+AFTER_SHOT_2 | index=803 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=1 | ptr=0x801FABDC | aux=0 | differences=
+END | index=1003 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=1 | ptr=0x801FABDC | aux=0 | differences=
+
+Log: .\output\alignment-reference-20260728-011512-log.csv

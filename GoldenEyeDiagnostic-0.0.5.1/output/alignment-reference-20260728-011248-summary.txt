@@ -1,0 +1,23 @@
+GoldenEyeDiagnostic 0.0.5.1
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Mode: CAPTURE_REFERENCE
+CSV: .\demonstrations\session-20260727-234451-frames.csv
+Route limit: 1003
+Timeout frames: 1300
+Outcome: KILL
+First desync checkpoint: NONE
+
+Final memory:
+state=1 | death=0 | hitSignal=1 | ptr=0x00000000 | aux=63
+
+Checkpoint results:
+START | index=1 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=0 | ptr=0x801FABDC | aux=0 | differences=
+SOLDIER_VISIBLE | index=339 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=0 | ptr=0x801FABDC | aux=0 | differences=
+BEFORE_SHOT_1 | index=714 | status=REFERENCE_CAPTURED | state=0 | death=0 | hitSignal=0 | ptr=0x801FABDC | aux=0 | differences=
+AFTER_SHOT_1 | NAO_ATINGIDO
+BEFORE_SHOT_2 | NAO_ATINGIDO
+AFTER_SHOT_2 | NAO_ATINGIDO
+END | NAO_ATINGIDO
+
+Log: .\output\alignment-reference-20260728-011248-log.csv
