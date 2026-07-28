@@ -1,0 +1,28 @@
+GoldenEyeDiagnostic 0.0.4.8
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+CSV: .\demonstrations\session-20260727-234451-frames.csv
+Route cut index: 833
+Start frame: 2821
+Combat start frame: nil
+Outcome frame: 3542
+
+Initial memory:
+state=0
+death=0
+hitSignal=0
+pointer=0x801FABDC
+
+Final memory:
+state=1
+death=0
+hitSignal=1
+pointer=0x00000000
+
+Route hit signal: true
+Combat hit signal: false
+Saw kill: true
+Outcome: KILL
+Log: .\output\frame-locked-combat-20260728-010308-log.csv
+
+Important: hitSignal is diagnostic only and does not prove a hit.
