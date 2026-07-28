@@ -1,0 +1,16 @@
+GoldenEyeDiagnostic 0.0.4.4
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+API: mainmemory
+Tamanho: 0x800000
+
+BASELINE: frame=3385, time=2026-07-28 00:38:43
+HIT: frame=4127, time=2026-07-28 00:38:58
+DEAD: frame=4660, time=2026-07-28 00:39:08
+
+Bytes alterados: 245188
+Candidatos DEATH_ONLY: 22484
+Candidatos PROGRESSIVE: 189592
+Candidatos HIT_ONLY: 33112
+Linhas exportadas: 5000
+CSV: .\output\soldier-state-20260728-003909-candidates.csv
