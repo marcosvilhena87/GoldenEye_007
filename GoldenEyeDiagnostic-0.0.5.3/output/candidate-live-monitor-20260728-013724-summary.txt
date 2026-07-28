@@ -1,0 +1,60 @@
+GoldenEyeDiagnostic 0.0.5.3
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Start frame: 3205
+Rows written: 6501
+Log: .\output\candidate-live-monitor-20260728-013724-log.csv
+
+Candidates:
+cand_0006D188 | address=0x0006D188 | type=float32_be
+cam_0007994C | address=0x0007994C | type=float32_be
+cam_00079950 | address=0x00079950 | type=float32_be
+cam_00079954 | address=0x00079954 | type=float32_be
+cam_00079958 | address=0x00079958 | type=float32_be
+cam_0007995C | address=0x0007995C | type=float32_be
+cam_00079960 | address=0x00079960 | type=float32_be
+cam_00079964 | address=0x00079964 | type=float32_be
+cam_00079968 | address=0x00079968 | type=float32_be
+cam_0007996C | address=0x0007996C | type=float32_be
+cam_00079970 | address=0x00079970 | type=float32_be
+cam_00079974 | address=0x00079974 | type=float32_be
+cam_00079978 | address=0x00079978 | type=float32_be
+cam_0007997C | address=0x0007997C | type=float32_be
+cam_00079980 | address=0x00079980 | type=float32_be
+cam_000F8AD0 | address=0x000F8AD0 | type=float32_be
+cam_000F8AD4 | address=0x000F8AD4 | type=float32_be
+cam_000F8AD8 | address=0x000F8AD8 | type=float32_be
+cam_001052D0 | address=0x001052D0 | type=float32_be
+cam_001052D4 | address=0x001052D4 | type=float32_be
+cam_001052D8 | address=0x001052D8 | type=float32_be
+struct_001F25C8 | address=0x001F25C8 | type=float32_be
+struct_001F25CC | address=0x001F25CC | type=float32_be
+struct_001F25D0 | address=0x001F25D0 | type=float32_be
+struct_001F25D4 | address=0x001F25D4 | type=float32_be
+struct_001F25D8 | address=0x001F25D8 | type=float32_be
+struct_001F25DC | address=0x001F25DC | type=float32_be
+struct_001F25E0 | address=0x001F25E0 | type=float32_be
+struct_001F25E4 | address=0x001F25E4 | type=float32_be
+struct_001F25E8 | address=0x001F25E8 | type=float32_be
+struct_001F25EC | address=0x001F25EC | type=float32_be
+struct_001F25F0 | address=0x001F25F0 | type=float32_be
+struct_001F25F4 | address=0x001F25F4 | type=float32_be
+struct_001F25F8 | address=0x001F25F8 | type=float32_be
+struct_001F25FC | address=0x001F25FC | type=float32_be
+struct_001F2600 | address=0x001F2600 | type=float32_be
+struct_001F2604 | address=0x001F2604 | type=float32_be
+struct_001F2608 | address=0x001F2608 | type=float32_be
+struct_001F260C | address=0x001F260C | type=float32_be
+struct_001F2610 | address=0x001F2610 | type=float32_be
+struct_001F2614 | address=0x001F2614 | type=float32_be
+struct_001F2618 | address=0x001F2618 | type=float32_be
+
+Markers:
+STOPPED | frame=3479
+ROTATE_LEFT | frame=4060
+ROTATE_RIGHT | frame=4384
+FORWARD | frame=4912
+BACKWARD | frame=5133
+STRAFE_LEFT | frame=9345
+STRAFE_RIGHT | frame=9583
+RETURN_BASE | frame=2830
