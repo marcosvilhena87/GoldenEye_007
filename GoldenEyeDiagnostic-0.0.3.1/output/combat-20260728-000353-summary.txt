@@ -1,0 +1,8 @@
+GoldenEyeDiagnostic 0.0.3.1
+Veredito: REPROVADO_SHOT_MISS
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+CSV: .\demonstrations\session-20260727-234451-frames.csv
+Route cut index: 820
+Frame atual: 3688
+Notas: 
