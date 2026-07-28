@@ -1,0 +1,25 @@
+GoldenEyeDiagnostic 0.0.4.6
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+API: mainmemory
+Start frame: 2664
+Rows written: 8
+Log: .\output\candidate-validation-20260728-005333-log.csv
+
+Candidates:
+state_30A37 | address=0x00030A37 | kind=u8
+death_30A6B | address=0x00030A6B | kind=u8
+hit_3CB7F | address=0x0003CB7F | kind=u8
+ptr_1F421C | address=0x001F421C | kind=u32be
+aux_1E015C | address=0x001E015C | kind=u8
+
+Markers:
+LIVE | frame=3029 | state_30A37=0 | death_30A6B=0 | hit_3CB7F=0 | ptr_1F421C=0x801FABDC | aux_1E015C=0
+HIT | frame=3407 | state_30A37=1 | death_30A6B=0 | hit_3CB7F=1 | ptr_1F421C=0x801FABDC | aux_1E015C=0
+DEAD | frame=3587 | state_30A37=2 | death_30A6B=1 | hit_3CB7F=1 | ptr_1F421C=0x00000000 | aux_1E015C=63
+
+Automatic evaluation:
+Score: 10/10
+Evidence: state_30A37=0/1/2; death_30A6B=0/0/1; hit_3CB7F=0/1/1; ptr_1F421C=nonzero/nonzero/zero
+
+Verdict: VALIDADO_FORTE
