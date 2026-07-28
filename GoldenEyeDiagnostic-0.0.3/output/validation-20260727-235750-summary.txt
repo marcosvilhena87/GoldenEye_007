@@ -1,0 +1,26 @@
+GoldenEyeDiagnostic 0.0.3
+Veredito: INCONCLUSIVO
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+CSV: .\demonstrations\session-20260727-234451-frames.csv
+Frames uteis: 1003
+Frame inicial do replay: 2833
+Frame final: 7241
+
+[CHECKPOINTS ESPERADOS]
+START: replay_index=1, source_relative_frame=272
+SOLDIER_VISIBLE: replay_index=339, source_relative_frame=610
+SHOT: replay_index=872, source_relative_frame=1143
+SOLDIER_DEAD: replay_index=1003, source_relative_frame=1274
+
+[CONFIRMACOES MANUAIS]
+SOLDIER_VISIBLE: replay_index=208, emu_frame=3040, offset=-131
+SHOT: replay_index=833, emu_frame=3665, offset=-39
+SOLDIER_DEAD: NAO_CONFIRMADO
+
+[OBSERVACOES]
+CONFIRM_SHOT: value=true, replay_index=833, emu_frame=3665
+CONFIRM_SOLDIER_VISIBLE: value=true, replay_index=208, emu_frame=3040
+
+[NOTAS]
+Acertou um tiro, mas não matou, depois não atirou mais.
