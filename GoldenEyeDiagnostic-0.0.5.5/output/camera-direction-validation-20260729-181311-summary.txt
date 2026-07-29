@@ -1,0 +1,25 @@
+GoldenEyeDiagnostic 0.0.5.5
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Frame: 2759
+Classification: CAMERA_ALIGNED
+Confidence: 1.0
+Max component delta: 0.0018853154033422
+Scores: LEFT=-- | RIGHT=-- | UP=-- | DOWN=--
+Calibration: .\output\camera-direction-calibration.csv
+CSV: .\output\camera-direction-validation-20260729-181311.csv
+
+Reference matrix:
+[ 0.561729  -0.827292   0.007017]
+[ 0.631913   0.046954   0.773616]
+[ 0.650760   0.046762  -0.757842]
+
+Current matrix:
+[ 0.560875  -0.827884   0.005131]
+[ 0.632930   0.045192   0.772889]
+[ 0.649858   0.047168  -0.758591]
+
+Delta matrix:
+[-0.000853  -0.000593  -0.001885]
+[ 0.001017  -0.001762  -0.000727]
+[-0.000902   0.000406  -0.000748]
