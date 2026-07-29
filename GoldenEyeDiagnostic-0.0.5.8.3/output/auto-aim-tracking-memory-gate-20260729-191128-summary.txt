@@ -1,0 +1,28 @@
+GoldenEyeDiagnostic 0.0.5.8.3
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 3050
+Stopped frame: 9469
+Rows: 1284
+Automatic shots: 22
+Auto-aim detected frames: 958
+Arm ready frames: 291
+Memory active frames: 1020
+Screen observed min: 98.380661010742
+Screen observed max: 230.72328186035
+Screen window: 157.0 to 163.0
+Detect raw: 20.0
+Detect normalized: 0.02
+Memory frames: 45
+Ready frames: 2
+Shot frames: 1
+Rearm invalid frames: 12
+Log interval: 5
+CSV: .\output\auto-aim-tracking-memory-gate-20260729-191128.csv
+
+State counts:
+IDLE: 264
+AUTO_AIM_DETECTED: 1
+CONVERGING: 959
+SHOT_READY: 9
+FIRED: 51
