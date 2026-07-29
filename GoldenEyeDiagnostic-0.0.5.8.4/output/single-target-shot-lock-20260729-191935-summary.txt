@@ -1,0 +1,35 @@
+GoldenEyeDiagnostic 0.0.5.8.4
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 18035
+Stopped frame: 23220
+Rows: 1037
+Automatic shots: 5
+Acquisitions: 5
+Target losses: 5
+Auto-aim detected frames: 794
+Arm ready frames: 231
+Target-lost candidate frames: 167
+Screen observed min: 85.932914733887
+Screen observed max: 230.08728027344
+Screen window: 157 to 163
+Detect raw: 20
+Detect normalized: 0.020
+Memory frames: 45
+Ready frames: 2
+Shot frames: 1
+Lost center window: 158 to 162
+Lost raw max: 2
+Lost normalized max: 0.002
+Lost frames: 50
+Log interval: 5
+CSV: .\output\single-target-shot-lock-20260729-191935.csv
+
+State counts:
+IDLE: 81
+TRACKING: 82
+CONVERGING: 0
+SHOT_READY: 1
+FIRED: 3
+TARGET_LOCKED: 869
+TARGET_LOST: 1
