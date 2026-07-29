@@ -1,0 +1,31 @@
+GoldenEyeDiagnostic 0.0.5.8.2
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Mode: ARM_AND_ACQUISITION
+Started frame: 3210
+Stopped frame: 2448
+Rows: 1234
+Automatic shots: 0
+Arm ready frames: 214
+Acquisition ready frames: 1083
+Gate ready frames: 63
+Screen observed min: 95.822937011719
+Screen observed max: 238.09292602539
+Raw abs observed min: 0.0
+Raw abs observed max: 373.39413452148
+Normalized abs observed min: 0.0
+Normalized abs observed max: 0.3889422416687
+Screen window: 157.0 to 163.0
+Raw minimum: 4.0
+Normalized minimum: 0.004
+Stable frames: 3
+Shot frames: 1
+Rearm frames: 12
+Log interval: 5
+CSV: .\output\auto-aim-acquisition-gate-20260729-190433.csv
+
+Blockers:
+NONE: 63
+ARM: 1020
+ACQUISITION: 151
+ARM+ACQUISITION: 0
