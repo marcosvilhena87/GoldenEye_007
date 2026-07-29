@@ -1,0 +1,14 @@
+GoldenEyeDiagnostic 0.0.5.8
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 2853
+Stopped frame: 3584
+Automatic shots: 0
+Ready frames: 0
+Blocked frames: 2948
+Screen window: 157.0 to 163.0
+Camera tolerance: 0.02
+Stable frames: 3
+Shot frames: 1
+Rearm frames: 12
+CSV: .\output\automatic-shot-gate-20260729-185206.csv
