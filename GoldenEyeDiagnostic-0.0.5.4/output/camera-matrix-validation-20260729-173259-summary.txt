@@ -1,0 +1,25 @@
+GoldenEyeDiagnostic 0.0.5.4
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Frame: 4211
+Classification: CAMERA_DOWN
+Forward delta X: -0.019157510548249
+Forward delta Y: -0.056286716342413
+Forward delta Z: 0.012687189435473
+Max component delta: 0.060345828533173
+CSV: .\output\camera-matrix-validation-20260729-173259.csv
+
+Reference matrix:
+[ 0.346304  -0.826442  -0.443922]
+[ 0.998302   0.047422  -0.033840]
+[-0.208557   0.048231  -0.976820]
+
+Current matrix:
+[ 0.316300  -0.827382  -0.464105]
+[ 0.994564   0.044412  -0.094186]
+[-0.267137   0.049089  -0.962407]
+
+Delta matrix:
+[-0.030004  -0.000940  -0.020183]
+[-0.003738  -0.003010  -0.060346]
+[-0.058581   0.000857   0.014413]
