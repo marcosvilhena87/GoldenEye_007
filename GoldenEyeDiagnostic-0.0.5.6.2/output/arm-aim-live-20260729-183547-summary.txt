@@ -1,0 +1,22 @@
+GoldenEyeDiagnostic 0.0.5.6.2
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 2938
+Stopped frame: 6993
+Rows: 2239
+CSV: .\output\arm-aim-live-20260729-183547.csv
+
+Marker counts:
+CENTER: 1
+AUTO_AIM_LEFT: 1
+AUTO_AIM_RIGHT: 1
+TARGET_LOST: 1
+SHOT: 2
+
+Candidate ranges:
+raw_horizontal | address=0x000D3998 | min=-369.13198852539 | max=363.0592956543 | first=0.0 | last=0.0
+raw_offset | address=0x000D3D40 | min=-371.13198852539 | max=361.0592956543 | first=-2.0 | last=-2.0
+related | address=0x000D3DD0 | min=-7.0639123916626 | max=1.874370098114 | first=-2.1515581607819 | last=-1.7436294555664
+screen_x | address=0x000D3F48 | min=84.270721435547 | max=234.25650024414 | first=160.0 | last=160.0
+screen_x_copy | address=0x000D3F5C | min=84.270721435547 | max=234.25650024414 | first=160.0 | last=160.0
+normalized | address=0x000D596C | min=-0.37158870697021 | max=0.37829983234406 | first=0.0 | last=0.0
