@@ -1,0 +1,15 @@
+GoldenEyeDiagnostic 0.0.5.7
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 2645
+Stopped frame: 2862
+Attempts: 0
+Kills: 0
+Misses: 0
+CSV: .\output\shot-alignment-reference-20260729-184409.csv
+
+Attempts:
+
+Observed ranges:
+KILL screen_x: nil to nil
+MISS screen_x: nil to nil
