@@ -1,0 +1,115 @@
+GoldenEyeDiagnostic 0.0.5.6.1
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Scan range: 0x00000000-0x007FFFFC
+Step: 4 bytes
+Candidates exported: 1956
+CSV: .\output\arm-horizontal-candidates-20260729-183052.csv
+
+Snapshots:
+NO_TARGET | frame=2710
+TARGET_LEFT | frame=3671
+TARGET_RIGHT | frame=5217
+MANUAL_AIM | frame=6523
+
+Top 100:
+1 | address=0x0027C368 | kind=ARM_HORIZONTAL_CANDIDATE | score=1399924.375 | base=-460356.75 | left=-125327.125 | right=-855192.25 | manual=-72.379638671875 | dLeft=335029.625 | dRight=-394835.5 | signOpposed=true
+2 | address=0x0027C364 | kind=MANUAL_AIM_CANDIDATE | score=874406.36965942 | base=-986258.5 | left=-386626.75 | right=-468552.75 | manual=-118.38034057617 | dLeft=599631.75 | dRight=517705.75 | signOpposed=false
+3 | address=0x0009B66C | kind=ARM_RIGHT_CANDIDATE | score=742110.4515564 | base=824479.9375 | left=824479.9375 | right=0.0 | manual=785.07806396484 | dLeft=0.0 | dRight=-824479.9375 | signOpposed=false
+4 | address=0x0009B6AC | kind=ARM_RIGHT_CANDIDATE | score=742110.4515564 | base=824479.9375 | left=824479.9375 | right=0.0 | manual=785.07806396484 | dLeft=0.0 | dRight=-824479.9375 | signOpposed=false
+5 | address=0x002E2F10 | kind=MANUAL_AIM_CANDIDATE | score=635410.6875 | base=0.0 | left=0.0 | right=0.0 | manual=635410.6875 | dLeft=0.0 | dRight=0.0 | signOpposed=false
+6 | address=0x001A02C8 | kind=MANUAL_AIM_CANDIDATE | score=524288.1 | base=0.0 | left=-655360.125 | right=-655360.125 | manual=-655360.125 | dLeft=-655360.125 | dRight=-655360.125 | signOpposed=false
+7 | address=0x001A035C | kind=MANUAL_AIM_CANDIDATE | score=471859.25 | base=0.0 | left=589824.0625 | right=589824.0625 | manual=589824.0625 | dLeft=589824.0625 | dRight=589824.0625 | signOpposed=false
+8 | address=0x003B3320 | kind=ARM_LEFT_CANDIDATE | score=240613.734375 | base=0.0 | left=240613.734375 | right=0.0 | manual=0.0 | dLeft=240613.734375 | dRight=0.0 | signOpposed=false
+9 | address=0x003B3154 | kind=ARM_HORIZONTAL_CANDIDATE | score=229673.04882813 | base=27.0 | left=229595.640625 | right=-7.802734375 | manual=-7.4306640625 | dLeft=229568.640625 | dRight=-34.802734375 | signOpposed=true
+10 | address=0x003B3158 | kind=ARM_HORIZONTAL_CANDIDATE | score=229559.25610352 | base=67.0 | left=229452.640625 | right=9.128173828125 | manual=55.0615234375 | dLeft=229385.640625 | dRight=-57.871826171875 | signOpposed=true
+11 | address=0x003B311C | kind=ARM_LEFT_CANDIDATE | score=229528.34375 | base=1.0 | left=229529.34375 | right=1.0 | manual=1.0 | dLeft=229528.34375 | dRight=0.0 | signOpposed=false
+12 | address=0x003B32FC | kind=ARM_LEFT_CANDIDATE | score=229311.5625 | base=0.0 | left=229311.5625 | right=0.0 | manual=0.0 | dLeft=229311.5625 | dRight=0.0 | signOpposed=false
+13 | address=0x003B314C | kind=ARM_LEFT_CANDIDATE | score=226923.5074707 | base=100.0 | left=229311.59375 | right=4658.90625 | manual=13.66845703125 | dLeft=229211.59375 | dRight=4558.90625 | signOpposed=false
+14 | address=0x003B331C | kind=ARM_LEFT_CANDIDATE | score=183391.4375 | base=0.0 | left=-183391.4375 | right=0.0 | manual=0.0 | dLeft=-183391.4375 | dRight=0.0 | signOpposed=false
+15 | address=0x002E2FAC | kind=MANUAL_AIM_CANDIDATE | score=173199.6875 | base=0.0 | left=0.0 | right=0.0 | manual=173199.6875 | dLeft=0.0 | dRight=0.0 | signOpposed=false
+16 | address=0x00091C4C | kind=ARM_RIGHT_CANDIDATE | score=133697.20775757 | base=-147767.375 | left=-147767.375 | right=785.07806396484 | manual=785.07806396484 | dLeft=0.0 | dRight=148552.45306396 | signOpposed=false
+17 | address=0x00099A34 | kind=ARM_RIGHT_CANDIDATE | score=132976.2375 | base=-147751.375 | left=-147751.375 | right=0.0 | manual=0.0 | dLeft=0.0 | dRight=147751.375 | signOpposed=false
+18 | address=0x003B3608 | kind=ARM_HORIZONTAL_CANDIDATE | score=130514.953125 | base=-208183.9375 | left=-183394.234375 | right=-264329.78125 | manual=-241737.140625 | dLeft=24789.703125 | dRight=-56145.84375 | signOpposed=true
+19 | address=0x00098ECC | kind=ARM_RIGHT_CANDIDATE | score=127280.36293945 | base=-147751.375 | left=-147751.375 | right=-6328.7495117188 | manual=-6328.7495117188 | dLeft=0.0 | dRight=141422.62548828 | signOpposed=false
+20 | address=0x0019FB30 | kind=MANUAL_AIM_CANDIDATE | score=111411.2125 | base=0.0 | left=-139264.015625 | right=-139264.015625 | manual=-139264.015625 | dLeft=-139264.015625 | dRight=-139264.015625 | signOpposed=false
+21 | address=0x00098838 | kind=ARM_RIGHT_CANDIDATE | score=108302.3859375 | base=120335.984375 | left=120335.984375 | right=0.0 | manual=0.0 | dLeft=0.0 | dRight=-120335.984375 | signOpposed=false
+22 | address=0x002E2CC4 | kind=ARM_RIGHT_CANDIDATE | score=62533.171041083 | base=0.0 | left=0.0 | right=62533.3203125 | manual=-1.4927141666412 | dLeft=0.0 | dRight=62533.3203125 | signOpposed=false
+23 | address=0x00032310 | kind=MANUAL_AIM_CANDIDATE | score=52428.799804688 | base=13107.200195313 | left=13107.200195313 | right=13107.200195313 | manual=65536.0 | dLeft=0.0 | dRight=0.0 | signOpposed=false
+24 | address=0x0005D77C | kind=MANUAL_AIM_CANDIDATE | score=46241.28125 | base=-1510.4765625 | left=-54.0 | right=15.0 | manual=45029.0 | dLeft=1456.4765625 | dRight=1525.4765625 | signOpposed=false
+25 | address=0x0005D78C | kind=MANUAL_AIM_CANDIDATE | score=32796.034936523 | base=40610.12109375 | left=-2.6416015625 | right=3352.0222167969 | manual=27.0 | dLeft=-40612.762695313 | dRight=-37258.098876953 | signOpposed=false
+26 | address=0x000F8F38 | kind=MANUAL_AIM_CANDIDATE | score=32206.900863453 | base=-39560.39453125 | left=-3068.7673339844 | right=-2517.0517578125 | manual=0.0033292730804533 | dLeft=36491.627197266 | dRight=37043.342773438 | signOpposed=false
+27 | address=0x000F8AD8 | kind=ARM_LEFT_CANDIDATE | score=31880.488574219 | base=-20285.07421875 | left=16480.80078125 | right=-11444.828125 | manual=-15632.440429688 | dLeft=36765.875 | dRight=8840.24609375 | signOpposed=false
+28 | address=0x001052D8 | kind=ARM_LEFT_CANDIDATE | score=31879.543554688 | base=-20287.2578125 | left=16481.15625 | right=-11439.787109375 | manual=-15635.90625 | dLeft=36768.4140625 | dRight=8847.470703125 | signOpposed=false
+29 | address=0x00079980 | kind=ARM_LEFT_CANDIDATE | score=31878.323535156 | base=20285.07421875 | left=-16481.15625 | right=11439.787109375 | manual=15632.440429688 | dLeft=-36766.23046875 | dRight=-8845.287109375 | signOpposed=false
+30 | address=0x002E30BC | kind=MANUAL_AIM_CANDIDATE | score=30967.5 | base=0.0 | left=0.0 | right=0.0 | manual=-30967.5 | dLeft=0.0 | dRight=0.0 | signOpposed=false
+31 | address=0x000D2FAC | kind=ARM_LEFT_CANDIDATE | score=30713.560351563 | base=19038.904296875 | left=-15606.057617188 | right=11857.07421875 | manual=15634.0390625 | dLeft=-34644.961914063 | dRight=-7181.830078125 | signOpposed=false
+32 | address=0x003B3118 | kind=ARM_LEFT_CANDIDATE | score=28619.734375 | base=0.0 | left=28619.734375 | right=0.0 | manual=0.0 | dLeft=28619.734375 | dRight=0.0 | signOpposed=false
+33 | address=0x003B3150 | kind=ARM_HORIZONTAL_CANDIDATE | score=28300.875 | base=77.0 | left=28332.875 | right=62.0 | manual=78.0 | dLeft=28255.875 | dRight=-15.0 | signOpposed=true
+34 | address=0x003B3138 | kind=ARM_LEFT_CANDIDATE | score=27229.91015625 | base=-41.0 | left=27203.91015625 | right=-17.0 | manual=-11.0 | dLeft=27244.91015625 | dRight=24.0 | signOpposed=false
+35 | address=0x0005E694 | kind=MANUAL_AIM_CANDIDATE | score=26079.853515625 | base=32768.0 | left=160.41015625 | right=96.751953125 | manual=160.2626953125 | dLeft=-32607.58984375 | dRight=-32671.248046875 | signOpposed=false
+36 | address=0x003B3170 | kind=ARM_LEFT_CANDIDATE | score=25564.349609375 | base=0.0 | left=25564.349609375 | right=0.0 | manual=0.0 | dLeft=25564.349609375 | dRight=0.0 | signOpposed=false
+37 | address=0x003B322C | kind=ARM_LEFT_CANDIDATE | score=23278.53515625 | base=0.0 | left=23278.53515625 | right=0.0 | manual=0.0 | dLeft=23278.53515625 | dRight=0.0 | signOpposed=false
+38 | address=0x003B31EC | kind=ARM_LEFT_CANDIDATE | score=23277.53515625 | base=1.0 | left=23278.53515625 | right=1.0 | manual=1.0 | dLeft=23277.53515625 | dRight=0.0 | signOpposed=false
+39 | address=0x003B3414 | kind=ARM_LEFT_CANDIDATE | score=23277.43515625 | base=1.0 | left=23278.53515625 | right=1.0 | manual=0.0 | dLeft=23277.53515625 | dRight=0.0 | signOpposed=false
+40 | address=0x003B3294 | kind=ARM_HORIZONTAL_CANDIDATE | score=22861.68359375 | base=17659.6484375 | left=1631.51953125 | right=19937.5 | manual=17627.84375 | dLeft=-16028.12890625 | dRight=2277.8515625 | signOpposed=true
+41 | address=0x0007996C | kind=ARM_LEFT_CANDIDATE | score=21110.528710937 | base=25862.6015625 | left=4368.9580078125 | right=25096.58984375 | manual=25863.69140625 | dLeft=-21493.643554688 | dRight=-766.01171875 | signOpposed=false
+42 | address=0x003B32B0 | kind=ARM_HORIZONTAL_CANDIDATE | score=20833.103515625 | base=0.0 | left=20524.103515625 | right=-103.0 | manual=0.0 | dLeft=20524.103515625 | dRight=-103.0 | signOpposed=true
+43 | address=0x003B2D04 | kind=MANUAL_AIM_CANDIDATE | score=20593.896643066 | base=20197.640625 | left=18825.359375 | right=18917.125 | manual=-661.53570556641 | dLeft=-1372.28125 | dRight=-1280.515625 | signOpposed=false
+44 | address=0x003B30B4 | kind=ARM_HORIZONTAL_CANDIDATE | score=20481.111328125 | base=19662.73046875 | left=196.0 | right=20000.857421875 | manual=19709.8125 | dLeft=-19466.73046875 | dRight=338.126953125 | signOpposed=true
+45 | address=0x0006A214 | kind=MANUAL_AIM_CANDIDATE | score=20330.425 | base=200896.671875 | left=201727.984375 | right=201727.984375 | manual=180399.984375 | dLeft=831.3125 | dRight=831.3125 | signOpposed=false
+46 | address=0x000D8ECC | kind=MANUAL_AIM_CANDIDATE | score=20252.684375 | base=-25315.85546875 | left=0.0 | right=0.0 | manual=0.0 | dLeft=25315.85546875 | dRight=25315.85546875 | signOpposed=false
+47 | address=0x003B3134 | kind=ARM_LEFT_CANDIDATE | score=20183.501171875 | base=-108.0 | left=20146.201171875 | right=12.0 | manual=-1.0 | dLeft=20254.201171875 | dRight=120.0 | signOpposed=false
+48 | address=0x0007997C | kind=ARM_LEFT_CANDIDATE | score=19890.786816406 | base=227.828125 | left=-25566.83203125 | right=-10382.8671875 | manual=-5757.4287109375 | dLeft=-25794.66015625 | dRight=-10610.6953125 | signOpposed=false
+49 | address=0x003B3290 | kind=ARM_LEFT_CANDIDATE | score=19598.067285156 | base=18892.314453125 | left=-1638.9399414063 | right=17103.78515625 | manual=18503.08984375 | dLeft=-20531.254394531 | dRight=-1788.529296875 | signOpposed=false
+50 | address=0x003B2B14 | kind=ARM_HORIZONTAL_CANDIDATE | score=19210.53175354 | base=16902.072265625 | left=-192.60401916504 | right=17607.357421875 | manual=-107.0022354126 | dLeft=-17094.67628479 | dRight=705.28515625 | signOpposed=true
+51 | address=0x0005D7B4 | kind=MANUAL_AIM_CANDIDATE | score=18876.547341156 | base=0.0 | left=90.801979064941 | right=14730.248046875 | manual=20358.65234375 | dLeft=90.801979064941 | dRight=14730.248046875 | signOpposed=false
+52 | address=0x0005E684 | kind=MANUAL_AIM_CANDIDATE | score=18401.6 | base=23170.0 | left=160.0 | right=96.0 | manual=160.0 | dLeft=-23010.0 | dRight=-23074.0 | signOpposed=false
+53 | address=0x003B316C | kind=ARM_LEFT_CANDIDATE | score=18339.14453125 | base=0.0 | left=-18339.14453125 | right=0.0 | manual=0.0 | dLeft=-18339.14453125 | dRight=0.0 | signOpposed=false
+54 | address=0x003B3694 | kind=ARM_LEFT_CANDIDATE | score=18306.75390625 | base=0.0 | left=18306.75390625 | right=0.0 | manual=0.0 | dLeft=18306.75390625 | dRight=0.0 | signOpposed=false
+55 | address=0x003B3000 | kind=ARM_LEFT_CANDIDATE | score=18126.430023193 | base=184.13442993164 | left=18310.564453125 | right=184.13442993164 | manual=184.13442993164 | dLeft=18126.430023193 | dRight=0.0 | signOpposed=false
+56 | address=0x003B31DC | kind=ARM_LEFT_CANDIDATE | score=17967.492760277 | base=18892.314453125 | left=-6.5294790267944 | right=17107.509765625 | manual=18502.826171875 | dLeft=-18898.843932152 | dRight=-1784.8046875 | signOpposed=false
+57 | address=0x0007995C | kind=ARM_LEFT_CANDIDATE | score=17882.229980469 | base=11367.018554688 | left=-9336.033203125 | right=6252.2412109375 | manual=8732.6875 | dLeft=-20703.051757813 | dRight=-5114.77734375 | signOpposed=false
+58 | address=0x003B31C0 | kind=ARM_HORIZONTAL_CANDIDATE | score=17586.232098222 | base=16862.8515625 | left=-0.57975447177887 | right=17103.78515625 | manual=16906.86328125 | dLeft=-16863.431316972 | dRight=240.93359375 | signOpposed=true
+59 | address=0x0007A1D8 | kind=ARM_RIGHT_CANDIDATE | score=17148.055078125 | base=0.0 | left=0.0 | right=19053.39453125 | manual=19053.39453125 | dLeft=0.0 | dRight=19053.39453125 | signOpposed=false
+60 | address=0x003B317C | kind=ARM_LEFT_CANDIDATE | score=16938.64486084 | base=18892.314453125 | left=1022.3184204102 | right=17107.509765625 | manual=18502.826171875 | dLeft=-17869.996032715 | dRight=-1784.8046875 | signOpposed=false
+61 | address=0x0005D784 | kind=MANUAL_AIM_CANDIDATE | score=16694.3078125 | base=19791.134765625 | left=4401.0 | right=3963.0 | manual=-25.0 | dLeft=-15390.134765625 | dRight=-15828.134765625 | signOpposed=false
+62 | address=0x003B3234 | kind=ARM_LEFT_CANDIDATE | score=16500.138671875 | base=0.0 | left=-16500.138671875 | right=0.0 | manual=0.0 | dLeft=-16500.138671875 | dRight=0.0 | signOpposed=false
+63 | address=0x003B3238 | kind=ARM_LEFT_CANDIDATE | score=16479.146484375 | base=0.0 | left=-16479.146484375 | right=0.0 | manual=0.0 | dLeft=-16479.146484375 | dRight=0.0 | signOpposed=false
+64 | address=0x003B2EAC | kind=ARM_LEFT_CANDIDATE | score=16186.583789063 | base=17004.0234375 | left=-440.564453125 | right=14544.474609375 | manual=16721.7265625 | dLeft=-17444.587890625 | dRight=-2459.548828125 | signOpposed=false
+65 | address=0x003B2B24 | kind=ARM_LEFT_CANDIDATE | score=16168.775 | base=0.0 | left=17951.1796875 | right=0.0 | manual=17824.046875 | dLeft=17951.1796875 | dRight=0.0 | signOpposed=false
+66 | address=0x0007A1E0 | kind=ARM_RIGHT_CANDIDATE | score=15850.378125 | base=0.0 | left=0.0 | right=17611.53125 | manual=17611.53125 | dLeft=0.0 | dRight=17611.53125 | signOpposed=false
+67 | address=0x0005D7AC | kind=MANUAL_AIM_CANDIDATE | score=15709.597436523 | base=19791.134765625 | left=73.0 | right=-36.103759765625 | manual=127.0 | dLeft=-19718.134765625 | dRight=-19827.238525391 | signOpposed=false
+68 | address=0x003B2EF0 | kind=ARM_LEFT_CANDIDATE | score=15439.299867678 | base=16494.755859375 | left=-3.7571918964386 | right=14394.747070313 | manual=16586.84375 | dLeft=-16498.513051271 | dRight=-2100.0087890625 | signOpposed=false
+69 | address=0x0007A1AC | kind=MANUAL_AIM_CANDIDATE | score=15371.202539063 | base=0.0 | left=18837.091796875 | right=19081.83984375 | manual=19163.095703125 | dLeft=18837.091796875 | dRight=19081.83984375 | signOpposed=false
+70 | address=0x0007A180 | kind=MANUAL_AIM_CANDIDATE | score=15361.429296875 | base=0.0 | left=18806.767578125 | right=19068.841796875 | manual=19148.990234375 | dLeft=18806.767578125 | dRight=19068.841796875 | signOpposed=false
+71 | address=0x001F1928 | kind=MANUAL_AIM_CANDIDATE | score=15234.93984375 | base=0.0 | left=18826.03515625 | right=18917.203125 | manual=19009.263671875 | dLeft=18826.03515625 | dRight=18917.203125 | signOpposed=false
+72 | address=0x003B2BCC | kind=MANUAL_AIM_CANDIDATE | score=15227.913085938 | base=-1199.6499023438 | left=17951.1796875 | right=17607.357421875 | manual=17824.046875 | dLeft=19150.829589844 | dRight=18807.007324219 | signOpposed=false
+73 | address=0x003B2E98 | kind=ARM_LEFT_CANDIDATE | score=14371.81640625 | base=0.0 | left=14371.81640625 | right=0.0 | manual=0.0 | dLeft=14371.81640625 | dRight=0.0 | signOpposed=false
+74 | address=0x003B368C | kind=ARM_LEFT_CANDIDATE | score=14366.345703125 | base=0.0 | left=14366.345703125 | right=0.0 | manual=0.0 | dLeft=14366.345703125 | dRight=0.0 | signOpposed=false
+75 | address=0x001EF170 | kind=MANUAL_AIM_CANDIDATE | score=14257.834375 | base=17822.29296875 | left=0.0 | right=0.0 | manual=0.0 | dLeft=-17822.29296875 | dRight=-17822.29296875 | signOpposed=false
+76 | address=0x0007A188 | kind=MANUAL_AIM_CANDIDATE | score=14161.160449219 | base=0.0 | left=15649.114257813 | right=17588.2265625 | manual=17484.89453125 | dLeft=15649.114257813 | dRight=17588.2265625 | signOpposed=false
+77 | address=0x0007A1B4 | kind=MANUAL_AIM_CANDIDATE | score=14142.45 | base=0.0 | left=15672.326171875 | right=17571.630859375 | manual=17466.845703125 | dLeft=15672.326171875 | dRight=17571.630859375 | signOpposed=false
+78 | address=0x001F1930 | kind=MANUAL_AIM_CANDIDATE | score=14110.348242187 | base=0.0 | left=17308.8671875 | right=17607.337890625 | manual=17601.96875 | dLeft=17308.8671875 | dRight=17607.337890625 | signOpposed=false
+79 | address=0x001EEF94 | kind=ARM_RIGHT_CANDIDATE | score=14079.35390625 | base=15643.7265625 | left=15643.7265625 | right=0.0 | manual=0.0 | dLeft=0.0 | dRight=-15643.7265625 | signOpposed=false
+80 | address=0x0007994C | kind=ARM_LEFT_CANDIDATE | score=13996.09296875 | base=8918.0556640625 | left=-7145.123046875 | right=5187.544921875 | manual=6899.751953125 | dLeft=-16063.178710938 | dRight=-3730.5107421875 | signOpposed=false
+81 | address=0x003B2ED8 | kind=ARM_LEFT_CANDIDATE | score=13939.38678478 | base=0.45561993122101 | left=13939.913085938 | right=0.59308439493179 | manual=0.43612998723984 | dLeft=13939.457466006 | dRight=0.13746446371078 | signOpposed=false
+82 | address=0x003B2D08 | kind=MANUAL_AIM_CANDIDATE | score=13521.6578125 | base=16902.072265625 | left=0.0 | right=0.0 | manual=0.0 | dLeft=-16902.072265625 | dRight=-16902.072265625 | signOpposed=false
+83 | address=0x00081620 | kind=ARM_HORIZONTAL_CANDIDATE | score=13019.696533203 | base=-753.96899414063 | left=3970.607421875 | right=-3519.0090332031 | manual=-1738.7978515625 | dLeft=4724.5764160156 | dRight=-2765.0400390625 | signOpposed=true
+84 | address=0x002E31F0 | kind=MANUAL_AIM_CANDIDATE | score=11196.440429688 | base=0.0 | left=0.0 | right=0.0 | manual=11196.440429688 | dLeft=0.0 | dRight=0.0 | signOpposed=false
+85 | address=0x003B2BDC | kind=MANUAL_AIM_CANDIDATE | score=11051.1875 | base=-1467.6574707031 | left=9506.078125 | right=14506.548828125 | manual=12278.32421875 | dLeft=10973.735595703 | dRight=15974.206298828 | signOpposed=false
+86 | address=0x003B2BD4 | kind=MANUAL_AIM_CANDIDATE | score=11005.204589844 | base=-1454.54296875 | left=9486.078125 | right=14681.461914063 | manual=12258.32421875 | dLeft=10940.62109375 | dRight=16136.004882813 | signOpposed=false
+87 | address=0x003B32D0 | kind=ARM_RIGHT_CANDIDATE | score=10826.21875 | base=20227.640625 | left=1638.552734375 | right=0.0 | manual=19158.861328125 | dLeft=-18589.087890625 | dRight=-20227.640625 | signOpposed=false
+88 | address=0x003B34A0 | kind=ARM_LEFT_CANDIDATE | score=10803.78252867 | base=0.057354051619768 | left=10809.315429688 | right=11.0 | manual=0.099593967199326 | dLeft=10809.258075636 | dRight=10.94264594838 | signOpposed=false
+89 | address=0x0005D7BC | kind=MANUAL_AIM_CANDIDATE | score=10651.924682617 | base=18280.658203125 | left=4398.3583984375 | right=3441.5749511719 | manual=4756.5952148438 | dLeft=-13882.299804688 | dRight=-14839.083251953 | signOpposed=false
+90 | address=0x003B3494 | kind=ARM_LEFT_CANDIDATE | score=10483.250594483 | base=119.0 | left=10881.719726563 | right=654.15826416016 | manual=0.1000000089407 | dLeft=10762.719726563 | dRight=535.15826416016 | signOpposed=false
+91 | address=0x0005D79C | kind=MANUAL_AIM_CANDIDATE | score=10318.412744141 | base=17056.154296875 | left=1436.8930664063 | right=3888.0 | manual=3859.0 | dLeft=-15619.261230469 | dRight=-13168.154296875 | signOpposed=false
+92 | address=0x003B30A8 | kind=ARM_LEFT_CANDIDATE | score=9797.7587890625 | base=0.0 | left=9797.7587890625 | right=0.0 | manual=0.0 | dLeft=9797.7587890625 | dRight=0.0 | signOpposed=false
+93 | address=0x003B30A4 | kind=ARM_LEFT_CANDIDATE | score=9797.7578125 | base=0.0 | left=-9797.7578125 | right=0.0 | manual=0.0 | dLeft=-9797.7578125 | dRight=0.0 | signOpposed=false
+94 | address=0x003B30B0 | kind=ARM_LEFT_CANDIDATE | score=9797.755859375 | base=0.0 | left=9797.755859375 | right=0.0 | manual=0.0 | dLeft=9797.755859375 | dRight=0.0 | signOpposed=false
+95 | address=0x002E3440 | kind=MANUAL_AIM_CANDIDATE | score=9667.22265625 | base=0.0 | left=0.0 | right=0.0 | manual=-9667.22265625 | dLeft=0.0 | dRight=0.0 | signOpposed=false
+96 | address=0x001A0184 | kind=MANUAL_AIM_CANDIDATE | score=9369.603125 | base=0.0 | left=-11712.00390625 | right=-11712.00390625 | manual=-11712.00390625 | dLeft=-11712.00390625 | dRight=-11712.00390625 | signOpposed=false
+97 | address=0x002E2EBC | kind=MANUAL_AIM_CANDIDATE | score=9334.8466796875 | base=0.0 | left=0.0 | right=0.0 | manual=-9334.8466796875 | dLeft=0.0 | dRight=0.0 | signOpposed=false
+98 | address=0x000FA0B8 | kind=MANUAL_AIM_CANDIDATE | score=8906.503125 | base=-11133.12890625 | left=0.0 | right=0.0 | manual=0.0 | dLeft=11133.12890625 | dRight=11133.12890625 | signOpposed=false
+99 | address=0x000FA138 | kind=MANUAL_AIM_CANDIDATE | score=8906.503125 | base=-11133.12890625 | left=0.0 | right=0.0 | manual=0.0 | dLeft=11133.12890625 | dRight=11133.12890625 | signOpposed=false
+100 | address=0x003B34B8 | kind=ARM_LEFT_CANDIDATE | score=8895.4255859375 | base=17659.6484375 | left=-68.7392578125 | right=0.0 | manual=17628.26953125 | dLeft=-17728.387695313 | dRight=-17659.6484375 | signOpposed=false
