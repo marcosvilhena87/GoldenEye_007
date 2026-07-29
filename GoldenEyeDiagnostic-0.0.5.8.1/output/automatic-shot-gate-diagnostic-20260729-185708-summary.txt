@@ -1,0 +1,29 @@
+GoldenEyeDiagnostic 0.0.5.8.1
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Mode: ARM_ONLY
+Started frame: 3087
+Stopped frame: 4109
+Rows: 102
+Automatic shots: 4
+Arm ready frames: 89
+Camera ready frames: 0
+Gate ready frames: 89
+Screen observed min: 135.12167358398
+Screen observed max: 168.3893737793
+Camera delta observed min: nil
+Camera delta observed max: nil
+Camera reference loaded: false
+Screen window: 157 to 163
+Camera tolerance: 0.020
+Stable frames: 3
+Shot frames: 1
+Rearm frames: 12
+Log interval: 10
+CSV: .\output\automatic-shot-gate-diagnostic-20260729-185708.csv
+
+Blockers:
+NONE: 89
+ARM: 13
+CAMERA: 0
+ARM+CAMERA: 0
