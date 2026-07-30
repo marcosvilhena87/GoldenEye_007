@@ -1,0 +1,170 @@
+GoldenEyeDiagnostic 0.0.5.8.6
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Candidates found: 197
+Candidates exported: 197
+CSV: .\output\shot-outcome-candidates-20260729-194219.csv
+
+Snapshots:
+BEFORE_SHOT | frame=2990
+HIT | frame=4043
+VISUAL_DEATH | frame=4478
+MISS | frame=3335
+
+Regions:
+STATE_30A | 0x00030800-0x00030CFF
+STATE_3CB | 0x0003C900-0x0003CDFF
+OBJECT_1E | 0x001DF000-0x001E1FFF
+POINTER_1F | 0x001F3000-0x001F4FFF
+
+Top 150:
+1 | region=OBJECT_1E | address=0x001E0164 | type=U32_BE | kind=DEATH_SPECIFIC | score=9468101557.4 | before=0 | hit=0 | death=3264862606 | miss=0
+2 | region=OBJECT_1E | address=0x001E0120 | type=U32_BE | kind=DEATH_SPECIFIC | score=9195765324.0 | before=0 | hit=0 | death=3170953560 | miss=0
+3 | region=OBJECT_1E | address=0x001E0124 | type=U32_BE | kind=DEATH_SPECIFIC | score=9186530285.6 | before=0 | hit=0 | death=3167769064 | miss=0
+4 | region=OBJECT_1E | address=0x001E0134 | type=U32_BE | kind=DEATH_SPECIFIC | score=9169465960.6 | before=0 | hit=0 | death=3161884814 | miss=0
+5 | region=POINTER_1F | address=0x001F421C | type=U32_BE | kind=DEATH_SPECIFIC | score=6233721854.0 | before=2149559260 | hit=2149559260 | death=0 | miss=2149559260
+6 | region=OBJECT_1E | address=0x001E0174 | type=U32_BE | kind=DEATH_SPECIFIC | score=6229078803.2 | before=0 | hit=0 | death=2147958208 | miss=0
+7 | region=OBJECT_1E | address=0x001E0160 | type=U32_BE | kind=DEATH_SPECIFIC | score=3433843397.0 | before=0 | hit=0 | death=1184083930 | miss=0
+8 | region=OBJECT_1E | address=0x001E0168 | type=U32_BE | kind=DEATH_SPECIFIC | score=3432236077.8 | before=0 | hit=0 | death=1183529682 | miss=0
+9 | region=OBJECT_1E | address=0x001E015C | type=U32_BE | kind=DEATH_SPECIFIC | score=3089524326.4 | before=0 | hit=0 | death=1065353216 | miss=0
+10 | region=OBJECT_1E | address=0x001E0144 | type=U32_BE | kind=DEATH_SPECIFIC | score=3005074589.3 | before=0 | hit=0 | death=1036232617 | miss=0
+11 | region=OBJECT_1E | address=0x001E0130 | type=U32_BE | kind=DEATH_SPECIFIC | score=3004746871.9 | before=0 | hit=0 | death=1036119611 | miss=0
+12 | region=OBJECT_1E | address=0x001E0128 | type=U32_BE | kind=DEATH_SPECIFIC | score=3003484011.8 | before=0 | hit=0 | death=1035684142 | miss=0
+13 | region=OBJECT_1E | address=0x001E0148 | type=U32_BE | kind=DEATH_SPECIFIC | score=2964099703.4 | before=0 | hit=0 | death=1022103346 | miss=0
+14 | region=OBJECT_1E | address=0x001E0138 | type=U32_BE | kind=DEATH_SPECIFIC | score=2963459972.1 | before=0 | hit=0 | death=1021882749 | miss=0
+15 | region=OBJECT_1E | address=0x001E0140 | type=U32_BE | kind=DEATH_SPECIFIC | score=2911293197.4 | before=0 | hit=0 | death=1003894206 | miss=0
+16 | region=OBJECT_1E | address=0x001E0132 | type=U16_BE | kind=DEATH_SPECIFIC | score=176862.3 | before=0 | hit=0 | death=60987 | miss=0
+17 | region=OBJECT_1E | address=0x001E0122 | type=U16_BE | kind=DEATH_SPECIFIC | score=173234.4 | before=0 | hit=0 | death=59736 | miss=0
+18 | region=OBJECT_1E | address=0x001E0166 | type=U16_BE | kind=DEATH_SPECIFIC | score=161512.6 | before=0 | hit=0 | death=55694 | miss=0
+19 | region=POINTER_1F | address=0x001F454C | type=U32_BE | kind=HIT_PERSISTENT | score=154560.0 | before=2148555520 | hit=2148504000 | death=2148504000 | miss=2148555520
+20 | region=POINTER_1F | address=0x001F472C | type=U32_BE | kind=HIT_PERSISTENT | score=154560.0 | before=2148554176 | hit=2148502656 | death=2148502656 | miss=2148554176
+21 | region=POINTER_1F | address=0x001F474C | type=U32_BE | kind=HIT_PERSISTENT | score=154560.0 | before=2148554112 | hit=2148502592 | death=2148502592 | miss=2148554112
+22 | region=POINTER_1F | address=0x001F476C | type=U32_BE | kind=HIT_PERSISTENT | score=154560.0 | before=2148554048 | hit=2148502528 | death=2148502528 | miss=2148554048
+23 | region=POINTER_1F | address=0x001F478C | type=U32_BE | kind=HIT_PERSISTENT | score=154560.0 | before=2148553984 | hit=2148502464 | death=2148502464 | miss=2148553984
+24 | region=POINTER_1F | address=0x001F47AC | type=U32_BE | kind=HIT_PERSISTENT | score=154560.0 | before=2148553920 | hit=2148502400 | death=2148502400 | miss=2148553920
+25 | region=OBJECT_1E | address=0x001E0164 | type=U16_BE | kind=DEATH_SPECIFIC | score=144469.3 | before=0 | hit=0 | death=49817 | miss=0
+26 | region=OBJECT_1E | address=0x001E0120 | type=U16_BE | kind=DEATH_SPECIFIC | score=140313.6 | before=0 | hit=0 | death=48384 | miss=0
+27 | region=OBJECT_1E | address=0x001E0124 | type=U16_BE | kind=DEATH_SPECIFIC | score=140174.4 | before=0 | hit=0 | death=48336 | miss=0
+28 | region=OBJECT_1E | address=0x001E0134 | type=U16_BE | kind=DEATH_SPECIFIC | score=139913.4 | before=0 | hit=0 | death=48246 | miss=0
+29 | region=OBJECT_1E | address=0x001E013A | type=U16_BE | kind=DEATH_SPECIFIC | score=131767.3 | before=0 | hit=0 | death=45437 | miss=0
+30 | region=OBJECT_1E | address=0x001E0162 | type=U16_BE | kind=DEATH_SPECIFIC | score=130552.2 | before=0 | hit=0 | death=45018 | miss=0
+31 | region=POINTER_1F | address=0x001F421E | type=U16_BE | kind=DEATH_SPECIFIC | score=127588.4 | before=43996 | hit=43996 | death=0 | miss=43996
+32 | region=OBJECT_1E | address=0x001E0146 | type=U16_BE | kind=DEATH_SPECIFIC | score=124470.9 | before=0 | hit=0 | death=42921 | miss=0
+33 | region=OBJECT_1E | address=0x001E0136 | type=U16_BE | kind=DEATH_SPECIFIC | score=101378.2 | before=0 | hit=0 | death=34958 | miss=0
+34 | region=POINTER_1F | address=0x001F421C | type=U16_BE | kind=DEATH_SPECIFIC | score=95117.1 | before=32799 | hit=32799 | death=0 | miss=32799
+35 | region=OBJECT_1E | address=0x001E0174 | type=U16_BE | kind=DEATH_SPECIFIC | score=95047.5 | before=0 | hit=0 | death=32775 | miss=0
+36 | region=OBJECT_1E | address=0x001E0126 | type=U16_BE | kind=DEATH_SPECIFIC | score=60807.2 | before=0 | hit=0 | death=20968 | miss=0
+37 | region=OBJECT_1E | address=0x001E0160 | type=F32_BE | kind=DEATH_SPECIFIC | score=54821.384765625 | before=0 | hit=0 | death=18903.92578125 | miss=0
+38 | region=OBJECT_1E | address=0x001E012A | type=U16_BE | kind=DEATH_SPECIFIC | score=54328.6 | before=0 | hit=0 | death=18734 | miss=0
+39 | region=OBJECT_1E | address=0x001E0160 | type=U16_BE | kind=DEATH_SPECIFIC | score=52394.3 | before=0 | hit=0 | death=18067 | miss=0
+40 | region=OBJECT_1E | address=0x001E0168 | type=U16_BE | kind=DEATH_SPECIFIC | score=52371.1 | before=0 | hit=0 | death=18059 | miss=0
+41 | region=OBJECT_1E | address=0x001E0168 | type=F32_BE | kind=DEATH_SPECIFIC | score=51682.089453125 | before=0 | hit=0 | death=17821.41015625 | miss=0
+42 | region=OBJECT_1E | address=0x001E015C | type=U16_BE | kind=DEATH_SPECIFIC | score=47142.4 | before=0 | hit=0 | death=16256 | miss=0
+43 | region=OBJECT_1E | address=0x001E0144 | type=U16_BE | kind=DEATH_SPECIFIC | score=45851.9 | before=0 | hit=0 | death=15811 | miss=0
+44 | region=OBJECT_1E | address=0x001E0130 | type=U16_BE | kind=DEATH_SPECIFIC | score=45846.1 | before=0 | hit=0 | death=15809 | miss=0
+45 | region=OBJECT_1E | address=0x001E0176 | type=U16_BE | kind=DEATH_SPECIFIC | score=45843.2 | before=0 | hit=0 | death=15808 | miss=0
+46 | region=OBJECT_1E | address=0x001E0128 | type=U16_BE | kind=DEATH_SPECIFIC | score=45828.7 | before=0 | hit=0 | death=15803 | miss=0
+47 | region=OBJECT_1E | address=0x001E0148 | type=U16_BE | kind=DEATH_SPECIFIC | score=45228.4 | before=0 | hit=0 | death=15596 | miss=0
+48 | region=OBJECT_1E | address=0x001E0138 | type=U16_BE | kind=DEATH_SPECIFIC | score=45216.8 | before=0 | hit=0 | death=15592 | miss=0
+49 | region=OBJECT_1E | address=0x001E0140 | type=U16_BE | kind=DEATH_SPECIFIC | score=44422.2 | before=0 | hit=0 | death=15318 | miss=0
+50 | region=OBJECT_1E | address=0x001E016A | type=U16_BE | kind=DEATH_SPECIFIC | score=43668.2 | before=0 | hit=0 | death=15058 | miss=0
+51 | region=POINTER_1F | address=0x001F454E | type=U16_BE | kind=HIT_PERSISTENT | score=42048.0 | before=23296 | hit=37312 | death=37312 | miss=23296
+52 | region=POINTER_1F | address=0x001F472E | type=U16_BE | kind=HIT_PERSISTENT | score=42048.0 | before=21952 | hit=35968 | death=35968 | miss=21952
+53 | region=POINTER_1F | address=0x001F474E | type=U16_BE | kind=HIT_PERSISTENT | score=42048.0 | before=21888 | hit=35904 | death=35904 | miss=21888
+54 | region=POINTER_1F | address=0x001F476E | type=U16_BE | kind=HIT_PERSISTENT | score=42048.0 | before=21824 | hit=35840 | death=35840 | miss=21824
+55 | region=POINTER_1F | address=0x001F478E | type=U16_BE | kind=HIT_PERSISTENT | score=42048.0 | before=21760 | hit=35776 | death=35776 | miss=21760
+56 | region=POINTER_1F | address=0x001F47AE | type=U16_BE | kind=HIT_PERSISTENT | score=42048.0 | before=21696 | hit=35712 | death=35712 | miss=21696
+57 | region=OBJECT_1E | address=0x001E0142 | type=U16_BE | kind=DEATH_SPECIFIC | score=39898.2 | before=0 | hit=0 | death=13758 | miss=0
+58 | region=POINTER_1F | address=0x001F420C | type=U32_BE | kind=HIT_PERSISTENT | score=27232.0 | before=2148558208 | hit=2148505344 | death=2148557888 | miss=2148558208
+59 | region=POINTER_1F | address=0x001F422C | type=U32_BE | kind=HIT_PERSISTENT | score=27232.0 | before=2148556864 | hit=2148504000 | death=2148556544 | miss=2148556864
+60 | region=OBJECT_1E | address=0x001E014A | type=U16_BE | kind=DEATH_SPECIFIC | score=11281.0 | before=0 | hit=0 | death=3890 | miss=0
+61 | region=POINTER_1F | address=0x001F420E | type=U16_BE | kind=HIT_PERSISTENT | score=6176.0 | before=25984 | hit=38656 | death=25664 | miss=25984
+62 | region=POINTER_1F | address=0x001F422E | type=U16_BE | kind=HIT_PERSISTENT | score=6176.0 | before=24640 | hit=37312 | death=24320 | miss=24640
+63 | region=POINTER_1F | address=0x001F421F | type=U8 | kind=ZERO_ON_DEATH | score=1220 | before=220 | hit=220 | death=0 | miss=220
+64 | region=POINTER_1F | address=0x001F421E | type=U8 | kind=ZERO_ON_DEATH | score=1171 | before=171 | hit=171 | death=0 | miss=171
+65 | region=POINTER_1F | address=0x001F421C | type=U8 | kind=ZERO_ON_DEATH | score=1128 | before=128 | hit=128 | death=0 | miss=128
+66 | region=POINTER_1F | address=0x001F422F | type=U8 | kind=ZERO_ON_DEATH | score=1064 | before=64 | hit=192 | death=0 | miss=64
+67 | region=POINTER_1F | address=0x001F476F | type=U8 | kind=ZERO_ON_DEATH | score=1064 | before=64 | hit=0 | death=0 | miss=64
+68 | region=POINTER_1F | address=0x001F421D | type=U8 | kind=ZERO_ON_DEATH | score=1031 | before=31 | hit=31 | death=0 | miss=31
+69 | region=POINTER_1F | address=0x001F421C | type=F32_BE | kind=ZERO_ON_DEATH | score=1000.0 | before=-2.9085519081342e-39 | hit=-2.9085519081342e-39 | death=0 | miss=-2.9085519081342e-39
+70 | region=OBJECT_1E | address=0x001E0108 | type=U32_BE | kind=DEATH_SPECIFIC | score=742.4 | before=16777224 | hit=16777224 | death=16777480 | miss=16777224
+71 | region=OBJECT_1E | address=0x001E010A | type=U16_BE | kind=DEATH_SPECIFIC | score=742.4 | before=8 | hit=8 | death=264 | miss=8
+72 | region=OBJECT_1E | address=0x001E0132 | type=U8 | kind=DEATH_SPECIFIC | score=690.2 | before=0 | hit=0 | death=238 | miss=0
+73 | region=OBJECT_1E | address=0x001E0149 | type=U8 | kind=DEATH_SPECIFIC | score=684.4 | before=0 | hit=0 | death=236 | miss=0
+74 | region=OBJECT_1E | address=0x001E0122 | type=U8 | kind=DEATH_SPECIFIC | score=675.7 | before=0 | hit=0 | death=233 | miss=0
+75 | region=OBJECT_1E | address=0x001E0127 | type=U8 | kind=DEATH_SPECIFIC | score=672.8 | before=0 | hit=0 | death=232 | miss=0
+76 | region=OBJECT_1E | address=0x001E0139 | type=U8 | kind=DEATH_SPECIFIC | score=672.8 | before=0 | hit=0 | death=232 | miss=0
+77 | region=OBJECT_1E | address=0x001E0163 | type=U8 | kind=DEATH_SPECIFIC | score=632.2 | before=0 | hit=0 | death=218 | miss=0
+78 | region=OBJECT_1E | address=0x001E0166 | type=U8 | kind=DEATH_SPECIFIC | score=629.3 | before=0 | hit=0 | death=217 | miss=0
+79 | region=OBJECT_1E | address=0x001E0141 | type=U8 | kind=DEATH_SPECIFIC | score=620.6 | before=0 | hit=0 | death=214 | miss=0
+80 | region=OBJECT_1E | address=0x001E016B | type=U8 | kind=DEATH_SPECIFIC | score=609.0 | before=0 | hit=0 | death=210 | miss=0
+81 | region=OBJECT_1E | address=0x001E0125 | type=U8 | kind=DEATH_SPECIFIC | score=603.2 | before=0 | hit=0 | death=208 | miss=0
+82 | region=POINTER_1F | address=0x001F454F | type=U8 | kind=HIT_PERSISTENT | score=576.0 | before=0 | hit=192 | death=192 | miss=0
+83 | region=POINTER_1F | address=0x001F478F | type=U8 | kind=HIT_PERSISTENT | score=576.0 | before=0 | hit=192 | death=192 | miss=0
+84 | region=OBJECT_1E | address=0x001E0145 | type=U8 | kind=DEATH_SPECIFIC | score=565.5 | before=0 | hit=0 | death=195 | miss=0
+85 | region=OBJECT_1E | address=0x001E0164 | type=U8 | kind=DEATH_SPECIFIC | score=562.6 | before=0 | hit=0 | death=194 | miss=0
+86 | region=OBJECT_1E | address=0x001E0131 | type=U8 | kind=DEATH_SPECIFIC | score=559.7 | before=0 | hit=0 | death=193 | miss=0
+87 | region=OBJECT_1E | address=0x001E0177 | type=U8 | kind=DEATH_SPECIFIC | score=556.8 | before=0 | hit=0 | death=192 | miss=0
+88 | region=OBJECT_1E | address=0x001E0143 | type=U8 | kind=DEATH_SPECIFIC | score=551.0 | before=0 | hit=0 | death=190 | miss=0
+89 | region=OBJECT_1E | address=0x001E0120 | type=U8 | kind=DEATH_SPECIFIC | score=548.1 | before=0 | hit=0 | death=189 | miss=0
+90 | region=OBJECT_1E | address=0x001E0124 | type=U8 | kind=DEATH_SPECIFIC | score=545.2 | before=0 | hit=0 | death=188 | miss=0
+91 | region=OBJECT_1E | address=0x001E0134 | type=U8 | kind=DEATH_SPECIFIC | score=545.2 | before=0 | hit=0 | death=188 | miss=0
+92 | region=OBJECT_1E | address=0x001E0129 | type=U8 | kind=DEATH_SPECIFIC | score=542.3 | before=0 | hit=0 | death=187 | miss=0
+93 | region=OBJECT_1E | address=0x001E013A | type=U8 | kind=DEATH_SPECIFIC | score=513.3 | before=0 | hit=0 | death=177 | miss=0
+94 | region=OBJECT_1E | address=0x001E0162 | type=U8 | kind=DEATH_SPECIFIC | score=507.5 | before=0 | hit=0 | death=175 | miss=0
+95 | region=STATE_30A | address=0x00030A34 | type=F32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=1.4012984643248e-45 | death=4.2038953929745e-45 | miss=0
+96 | region=STATE_30A | address=0x00030A34 | type=U32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=1 | death=3 | miss=0
+97 | region=STATE_30A | address=0x00030A36 | type=U16_BE | kind=SMALL_STATE | score=500 | before=0 | hit=1 | death=3 | miss=0
+98 | region=STATE_30A | address=0x00030A37 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=1 | death=3 | miss=0
+99 | region=STATE_30A | address=0x00030AAB | type=U8 | kind=SMALL_STATE | score=500 | before=116 | hit=220 | death=220 | miss=116
+100 | region=STATE_3CB | address=0x0003CB7C | type=F32_BE | kind=SMALL_STATE | score=500.0 | before=0 | hit=1.4012984643248e-45 | death=1.4012984643248e-45 | miss=1.4012984643248e-45
+101 | region=OBJECT_1E | address=0x001E0108 | type=F32_BE | kind=SMALL_STATE | score=500.0 | before=2.3509909437221e-38 | hit=2.3509909437221e-38 | death=2.3510626902035e-38 | miss=2.3509909437221e-38
+102 | region=OBJECT_1E | address=0x001E010A | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=1 | miss=0
+103 | region=OBJECT_1E | address=0x001E0123 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=88 | miss=0
+104 | region=OBJECT_1E | address=0x001E0126 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=81 | miss=0
+105 | region=OBJECT_1E | address=0x001E0128 | type=F32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=0.091448172926903 | miss=0
+106 | region=OBJECT_1E | address=0x001E0128 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=61 | miss=0
+107 | region=OBJECT_1E | address=0x001E012A | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=73 | miss=0
+108 | region=OBJECT_1E | address=0x001E012B | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=46 | miss=0
+109 | region=OBJECT_1E | address=0x001E0130 | type=F32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=0.094692669808865 | miss=0
+110 | region=OBJECT_1E | address=0x001E0130 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=61 | miss=0
+111 | region=OBJECT_1E | address=0x001E0133 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=59 | miss=0
+112 | region=OBJECT_1E | address=0x001E0135 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=118 | miss=0
+113 | region=OBJECT_1E | address=0x001E0136 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=136 | miss=0
+114 | region=OBJECT_1E | address=0x001E0137 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=142 | miss=0
+115 | region=OBJECT_1E | address=0x001E0138 | type=F32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=0.028404945507646 | miss=0
+116 | region=OBJECT_1E | address=0x001E0138 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=60 | miss=0
+117 | region=OBJECT_1E | address=0x001E013B | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=125 | miss=0
+118 | region=OBJECT_1E | address=0x001E0140 | type=F32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=0.0065371682867408 | miss=0
+119 | region=OBJECT_1E | address=0x001E0140 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=59 | miss=0
+120 | region=OBJECT_1E | address=0x001E0142 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=53 | miss=0
+121 | region=OBJECT_1E | address=0x001E0144 | type=F32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=0.095534630119801 | miss=0
+122 | region=OBJECT_1E | address=0x001E0144 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=61 | miss=0
+123 | region=OBJECT_1E | address=0x001E0146 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=167 | miss=0
+124 | region=OBJECT_1E | address=0x001E0147 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=169 | miss=0
+125 | region=OBJECT_1E | address=0x001E0148 | type=F32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=0.028815839439631 | miss=0
+126 | region=OBJECT_1E | address=0x001E0148 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=60 | miss=0
+127 | region=OBJECT_1E | address=0x001E014A | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=15 | miss=0
+128 | region=OBJECT_1E | address=0x001E014B | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=50 | miss=0
+129 | region=OBJECT_1E | address=0x001E015C | type=F32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=1.0 | miss=0
+130 | region=OBJECT_1E | address=0x001E015C | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=63 | miss=0
+131 | region=OBJECT_1E | address=0x001E015D | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=128 | miss=0
+132 | region=OBJECT_1E | address=0x001E0160 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=70 | miss=0
+133 | region=OBJECT_1E | address=0x001E0161 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=147 | miss=0
+134 | region=OBJECT_1E | address=0x001E0165 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=153 | miss=0
+135 | region=OBJECT_1E | address=0x001E0167 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=142 | miss=0
+136 | region=OBJECT_1E | address=0x001E0168 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=70 | miss=0
+137 | region=OBJECT_1E | address=0x001E0169 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=139 | miss=0
+138 | region=OBJECT_1E | address=0x001E016A | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=58 | miss=0
+139 | region=OBJECT_1E | address=0x001E016C | type=F32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=1.7936620343358e-43 | miss=0
+140 | region=OBJECT_1E | address=0x001E016C | type=U32_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=128 | miss=0
+141 | region=OBJECT_1E | address=0x001E016E | type=U16_BE | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=128 | miss=0
+142 | region=OBJECT_1E | address=0x001E016F | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=128 | miss=0
+143 | region=OBJECT_1E | address=0x001E0174 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=128 | miss=0
+144 | region=OBJECT_1E | address=0x001E0175 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=7 | miss=0
+145 | region=OBJECT_1E | address=0x001E0176 | type=U8 | kind=SMALL_STATE | score=500 | before=0 | hit=0 | death=61 | miss=0
+146 | region=POINTER_1F | address=0x001F420E | type=U8 | kind=SMALL_STATE | score=500 | before=101 | hit=151 | death=100 | miss=101
+147 | region=POINTER_1F | address=0x001F420F | type=U8 | kind=SMALL_STATE | score=500 | before=128 | hit=0 | death=64 | miss=128
+148 | region=POINTER_1F | address=0x001F422E | type=U8 | kind=SMALL_STATE | score=500 | before=96 | hit=145 | death=95 | miss=96
+149 | region=POINTER_1F | address=0x001F454D | type=U8 | kind=SMALL_STATE | score=500 | before=16 | hit=15 | death=15 | miss=16
+150 | region=POINTER_1F | address=0x001F454E | type=U8 | kind=SMALL_STATE | score=500 | before=91 | hit=145 | death=145 | miss=91
