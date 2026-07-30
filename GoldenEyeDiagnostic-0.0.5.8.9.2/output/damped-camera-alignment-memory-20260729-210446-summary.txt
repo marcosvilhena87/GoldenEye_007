@@ -1,0 +1,39 @@
+GoldenEyeDiagnostic 0.0.5.8.9.2
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 28951
+Stopped frame: 31551
+Rows: 2600
+Acquisitions: 9
+Stable events: 12
+Temporary losses: 11
+Searches: 11
+Reacquisitions: 3
+Lost events: 8
+Completed alignments: 12
+Average ALIGNING-to-STABLE frames: 118.83333333333
+Max search frames: 30
+Max abs error X/Y: 0.39061975479126 / 0.19523113250732
+Max abs command X/Y: 45 / 43
+Target X/Y: 0.000 / -0.070
+Acquire X/Y: 0.020 / 0.035
+Quiet X/Y: 0.006 / 0.012
+Enter tolerance X/Y: 0.020 / 0.030
+Exit tolerance X/Y: 0.035 / 0.045
+Kp X/Y: 280 / 220
+Kd X/Y: 90 / 70
+Memory frames: 30
+Memory minimum decay: 0.10
+Search max command: 20
+Signs X/Y: -1 / 1
+CSV: .\output\damped-camera-alignment-memory-20260729-210446.csv
+
+State counts:
+IDLE: 628
+ACQUIRED: 9
+ALIGNING: 1588
+STABLE: 91
+TARGET_TEMPORARILY_LOST: 11
+SEARCHING_LAST_DIRECTION: 262
+REACQUIRED: 3
+LOST: 8
