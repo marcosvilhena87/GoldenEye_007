@@ -1,0 +1,53 @@
+GoldenEyeDiagnostic 0.0.5.8.8.2
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 8521
+Stopped frame: 12935
+Rows: 4390
+Log interval: 1
+Rolling frames: 15
+CSV: .\output\vertical-candidate-live-validator-20260729-202631.csv
+
+Marker statistics:
+
+HEAD
+Count: 1
+normalized_vertical min/max/mean: 0.003490652423352 / 0.003490652423352 / 0.003490652423352
+screen_y min/max/mean: 120.0 / 120.0 / 120.0
+raw_vertical min/max/mean: 2.8025969286496e-45 / 2.8025969286496e-45 / 2.8025969286496e-45
+
+UPPER_BODY
+Count: 1
+normalized_vertical min/max/mean: -0.037742752581835 / -0.037742752581835 / -0.037742752581835
+screen_y min/max/mean: 120.0 / 120.0 / 120.0
+raw_vertical min/max/mean: 2.8025969286496e-45 / 2.8025969286496e-45 / 2.8025969286496e-45
+
+LOWER_BODY
+Count: 1
+normalized_vertical min/max/mean: -0.15991581976414 / -0.15991581976414 / -0.15991581976414
+screen_y min/max/mean: 120.0 / 120.0 / 120.0
+raw_vertical min/max/mean: 2.8025969286496e-45 / 2.8025969286496e-45 / 2.8025969286496e-45
+
+SHOT
+Count: 1
+normalized_vertical min/max/mean: -0.07973974198103 / -0.07973974198103 / -0.07973974198103
+screen_y min/max/mean: 120.0 / 120.0 / 120.0
+raw_vertical min/max/mean: -2.8025969286496e-45 / -2.8025969286496e-45 / -2.8025969286496e-45
+
+HIT
+Count: 1
+normalized_vertical min/max/mean: -0.079763412475586 / -0.079763412475586 / -0.079763412475586
+screen_y min/max/mean: 120.00000762939 / 120.00000762939 / 120.00000762939
+raw_vertical min/max/mean: -9.132461855188e-06 / -9.132461855188e-06 / -9.132461855188e-06
+
+MISS
+Count: 1
+normalized_vertical min/max/mean: -0.079859256744385 / -0.079859256744385 / -0.079859256744385
+screen_y min/max/mean: 120.03071594238 / 120.03071594238 / 120.03071594238
+raw_vertical min/max/mean: 0.85988414287567 / 0.85988414287567 / 0.85988414287567
+
+TARGET_LOST
+Count: 1
+normalized_vertical min/max/mean: -0.07973974198103 / -0.07973974198103 / -0.07973974198103
+screen_y min/max/mean: 120.0 / 120.0 / 120.0
+raw_vertical min/max/mean: 4.3196963367409e-11 / 4.3196963367409e-11 / 4.3196963367409e-11
