@@ -1,0 +1,46 @@
+GoldenEyeDiagnostic 0.0.5.8.7
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 3083
+Stopped frame: 4032
+Shots: 2
+Kills confirmed: 0
+Shot failures: 2
+Complete states: 1
+Pointer zero frames: 0
+Pointer changes: 0
+Final state: COMPLETE
+Attempts used: 2
+Baseline pointer: 0x801FABDC
+Shot pointer: 0x801FABDC
+Last pointer: 0x801FABDC
+Screen window: 157 to 163
+Detect raw: 20
+Detect normalized: 0.020
+Memory frames: 45
+Ready frames: 2
+Shot frames: 1
+Result delay: 4
+Result timeout: 120
+Kill confirm frames: 3
+Max attempts: 2
+Retry delay: 20
+CSV: .\output\first-soldier-pointer-death-gate-20260729-194926.csv
+
+State counts:
+IDLE: 0
+TRACKING: 130
+SHOT_READY: 1
+FIRED: 1
+WAITING_RESULT: 120
+KILL_CONFIRMED: 0
+SHOT_FAILED: 1
+RETRY_DELAY: 11
+COMPLETE: 210
+
+Last shot snapshot:
+Frame: 3489
+screen_x: 157.15252685547
+raw: -14.943529129028
+normalized: 0.01488471031189
+pointer: 0x801FABDC
