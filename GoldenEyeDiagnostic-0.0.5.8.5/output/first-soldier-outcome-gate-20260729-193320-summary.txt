@@ -1,0 +1,41 @@
+GoldenEyeDiagnostic 0.0.5.8.5
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 45159
+Stopped frame: 46597
+Shots: 2
+Kills confirmed: 0
+Shot failures: 2
+Complete states: 1
+Final state: COMPLETE
+Attempts used: 2
+Screen window: 157 to 163
+Detect raw: 20
+Detect normalized: 0.020
+Memory frames: 45
+Ready frames: 2
+Shot frames: 1
+Result delay: 4
+Result timeout: 90
+Kill confirm frames: 3
+Max attempts: 2
+Retry delay: 20
+CSV: .\output\first-soldier-outcome-gate-20260729-193320.csv
+
+State counts:
+IDLE: 148
+TRACKING: 16
+SHOT_READY: 0
+FIRED: 2
+WAITING_RESULT: 90
+KILL_CONFIRMED: 0
+SHOT_FAILED: 0
+COMPLETE: 463
+
+Last shot snapshot:
+Frame: 45580
+screen_x: 157.5167388916
+raw: -13.032565116882
+normalized: 0.012967228889465
+pointer: 0x801FABDC
+stateA/stateB: 0/0
