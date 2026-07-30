@@ -1,0 +1,32 @@
+GoldenEyeDiagnostic 0.0.5.8.9
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 2608
+Stopped frame: 3361
+Shots captured: 1
+HIT: 1
+MISS: 0
+KILL: 0
+UNCLASSIFIED: 0
+Pre-shot frames: 
+Post-shot frames: 
+Continuous log interval: 
+CSV: .\output\two-axis-shot-reference-20260729-203503.csv
+
+HIT statistics:
+Count: 1
+screenX min/max/mean: 160.0 / 160.0 / 160.0
+screenY min/max/mean: 120.0 / 120.0 / 120.0
+rawHorizontal min/max/mean: 0.0 / 0.0 / 0.0
+rawVertical min/max/mean: 0.0 / 0.0 / 0.0
+normalizedHorizontal min/max/mean: 0.0 / 0.0 / 0.0
+normalizedVertical min/max/mean: -0.069813169538975 / -0.069813169538975 / -0.069813169538975
+
+MISS statistics:
+Count: 0
+
+KILL statistics:
+Count: 0
+
+Individual shots:
+Shot 1 | outcome=HIT | frame=2884 | screen_x=160.0 | screen_y=120.0 | raw_x=0.0 | raw_y=0.0 | norm_x=0.0 | norm_y=-0.069813169538975

@@ -1,0 +1,46 @@
+GoldenEyeDiagnostic 0.0.5.8.9
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 2748
+Stopped frame: 3785
+Shots captured: 3
+HIT: 1
+MISS: 1
+KILL: 1
+UNCLASSIFIED: 0
+Pre-shot frames: 12
+Post-shot frames: 20
+Continuous log interval: 1
+CSV: .\output\two-axis-shot-reference-20260729-203551.csv
+
+HIT statistics:
+Count: 1
+screenX min/max/mean: 160.0 / 160.0 / 160.0
+screenY min/max/mean: 120.0 / 120.0 / 120.0
+rawHorizontal min/max/mean: 0.0 / 0.0 / 0.0
+rawVertical min/max/mean: 3.6471943243299e-09 / 3.6471943243299e-09 / 3.6471943243299e-09
+normalizedHorizontal min/max/mean: 0.0 / 0.0 / 0.0
+normalizedVertical min/max/mean: -0.069813169538975 / -0.069813169538975 / -0.069813169538975
+
+MISS statistics:
+Count: 1
+screenX min/max/mean: 160.02868652344 / 160.02868652344 / 160.02868652344
+screenY min/max/mean: 120.0 / 120.0 / 120.0
+rawHorizontal min/max/mean: 0.15056519210339 / 0.15056519210339 / 0.15056519210339
+rawVertical min/max/mean: 0.0012804117286578 / 0.0012804117286578 / 0.0012804117286578
+normalizedHorizontal min/max/mean: -7.2002410888672e-05 / -7.2002410888672e-05 / -7.2002410888672e-05
+normalizedVertical min/max/mean: -0.069813169538975 / -0.069813169538975 / -0.069813169538975
+
+KILL statistics:
+Count: 1
+screenX min/max/mean: 160.0 / 160.0 / 160.0
+screenY min/max/mean: 120.0 / 120.0 / 120.0
+rawHorizontal min/max/mean: 0.0 / 0.0 / 0.0
+rawVertical min/max/mean: 2.8624649317521e-08 / 2.8624649317521e-08 / 2.8624649317521e-08
+normalizedHorizontal min/max/mean: 0.0 / 0.0 / 0.0
+normalizedVertical min/max/mean: -0.069813169538975 / -0.069813169538975 / -0.069813169538975
+
+Individual shots:
+Shot 1 | outcome=HIT | frame=3369 | screen_x=160.0 | screen_y=120.0 | raw_x=0.0 | raw_y=3.6471943243299e-09 | norm_x=0.0 | norm_y=-0.069813169538975
+Shot 2 | outcome=MISS | frame=3532 | screen_x=160.02868652344 | screen_y=120.0 | raw_x=0.15056519210339 | raw_y=0.0012804117286578 | norm_x=-7.2002410888672e-05 | norm_y=-0.069813169538975
+Shot 3 | outcome=KILL | frame=3604 | screen_x=160.0 | screen_y=120.0 | raw_x=0.0 | raw_y=2.8624649317521e-08 | norm_x=0.0 | norm_y=-0.069813169538975

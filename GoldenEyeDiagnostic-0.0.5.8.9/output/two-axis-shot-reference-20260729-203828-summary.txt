@@ -1,0 +1,33 @@
+GoldenEyeDiagnostic 0.0.5.8.9
+ROM: 007 - GoldenEye (USA)
+Hash: ABE01E4AEB033B6C0836819F549C791B26CFDE83
+Started frame: 2696
+Stopped frame: 3493
+Shots captured: 2
+HIT: 2
+MISS: 0
+KILL: 0
+UNCLASSIFIED: 0
+Pre-shot frames: 12
+Post-shot frames: 20
+Continuous log interval: 1
+CSV: .\output\two-axis-shot-reference-20260729-203828.csv
+
+HIT statistics:
+Count: 2
+screenX min/max/mean: 107.87886810303 / 130.23979187012 / 119.05932998657
+screenY min/max/mean: 146.92385864258 / 184.00854492188 / 165.46620178223
+rawHorizontal min/max/mean: -261.45181274414 / -146.47096252441 / -203.96138763428
+rawVertical min/max/mean: -2.3268365859985 / -1.3285810947418 / -1.8277088403702
+normalizedHorizontal min/max/mean: 0.15486252307892 / 0.26698863506317 / 0.21092557907104
+normalizedVertical min/max/mean: -0.39025211334229 / -0.20526123046875 / -0.29775667190552
+
+MISS statistics:
+Count: 0
+
+KILL statistics:
+Count: 0
+
+Individual shots:
+Shot 1 | outcome=HIT | frame=3046 | screen_x=130.23979187012 | screen_y=184.00854492188 | raw_x=-146.47096252441 | raw_y=-1.3285810947418 | norm_x=0.15486252307892 | norm_y=-0.39025211334229
+Shot 2 | outcome=HIT | frame=3348 | screen_x=107.87886810303 | screen_y=146.92385864258 | raw_x=-261.45181274414 | raw_y=-2.3268365859985 | norm_x=0.26698863506317 | norm_y=-0.20526123046875
